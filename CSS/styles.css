@@ -53,7 +53,7 @@ p {
 }
 
 h1 {
-  font-size: 5.625rem; /* 16px == 100% == 1em REM == rootEM to ignore the root */
+  font-size: 5rem; /* 16px == 100% == 1em REM == rootEM to ignore the root orig = 5.625rem*/
   margin: 50px auto 0 auto;
   font-family: 'Sacramento', cursive;
   color: #66BFBF;
